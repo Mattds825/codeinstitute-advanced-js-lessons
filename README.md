@@ -21,3 +21,10 @@
 - Regular function call 
 - Extra arguments are ignored
 - Function using ...rest
+
+### Destructuring
+
+- Destructuring arrays
+- Destructuring objects
+- Destructuring subsets
+- Using rest parameter syntax
