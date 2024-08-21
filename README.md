@@ -8,3 +8,9 @@
 - Implicit Returns
 - Returning Multiple Lines
 
+## The Spread Operator 
+
+- No spread operator
+- Copying an array
+- Copying an object
+- Copying only part of an array/object
