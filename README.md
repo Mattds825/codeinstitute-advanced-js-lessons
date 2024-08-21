@@ -14,3 +14,10 @@
 - Copying an array
 - Copying an object
 - Copying only part of an array/object
+
+
+## Rest Parameter Syntax
+
+- Regular function call 
+- Extra arguments are ignored
+- Function using ...rest
