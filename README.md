@@ -36,3 +36,8 @@
 - Simplified w/ map()
 - Simplfied w/ map() + arrow function
 - With objects:
+
+## filter() Method
+
+- Simple filtering
+- Complex filtering
