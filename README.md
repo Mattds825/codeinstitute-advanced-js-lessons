@@ -1,6 +1,10 @@
-# Arrow Functions
+# Code Institude Advanced Js Lessons
 
-To use this repository:
-- Click the "Use this template" button in the upper right
-- Choose a name for your repository and create it
-- In your own repository, click the green "Gitpod" button
+## Arrow Functions
+
+- Vanilla JavaScript Function
+- Arrow Function With Parameters
+- Single Line Arrow Function With Parameters
+- Implicit Returns
+- Returning Multiple Lines
+
