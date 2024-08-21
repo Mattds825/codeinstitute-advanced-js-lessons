@@ -41,3 +41,9 @@
 
 - Simple filtering
 - Complex filtering
+
+## reduce() Method
+
+- Summing an array of numbers:
+- Totaling a specific object property
+- Grouping by a property, and totaling it too
